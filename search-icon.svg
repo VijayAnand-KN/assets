@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_6" data-name="Path 6" class="cls-1" d="M0 0h16v16.008H0z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}.cls-3{fill:#757575}
+        </style>
+    </defs>
+    <g id="Group_3" data-name="Group 3" transform="translate(-439 -279)">
+        <g id="search-smile" transform="translate(443 283)">
+            <g id="Group_2" data-name="Group 2" style="clip-path:url(#clip-path)">
+                <path id="Path_5" data-name="Path 5" class="cls-3" d="M2.4 11.011a6.352 6.352 0 0 0 7.818.974.277.277 0 0 1 .332.044l3.3 3.3a1.51 1.51 0 0 0 2.161.231l.1-.1a1.51 1.51 0 0 0-.231-2.161l-3.309-3.307a.273.273 0 0 1-.038-.325 6.352 6.352 0 0 0-.974-7.818A6.478 6.478 0 1 0 2.4 11.011zm7.965-1.2a4.787 4.787 0 1 1 0-6.77 4.787 4.787 0 0 1-.002 6.774zm0 0" transform="translate(-.468 .045)"/>
+            </g>
+            <path id="Path_7" data-name="Path 7" class="cls-3" d="M70.366 134.871a3.485 3.485 0 0 1-1.964.6 3.432 3.432 0 0 1-1.946-.6.672.672 0 1 1 .758-1.109 2.1 2.1 0 0 0 1.188.365 2.147 2.147 0 0 0 1.211-.366.672.672 0 1 1 .754 1.112z" transform="translate(-61.91 -125.051)"/>
+        </g>
+        <path id="Rectangle_5" data-name="Rectangle 5" class="cls-1" transform="translate(439 279)" d="M0 0h24v24H0z"/>
+    </g>
+</svg>
